@@ -9,7 +9,7 @@ A modern, responsive stock trading dashboard built with React, featuring real-ti
 
 ## 🚀 Live Demo
 
-**Access the application:** `http://localhost:5173`
+**Access the application:** `https://itssamad8218.github.io/StockPulse-Trading-App/`
 
 ## ✨ Key Features
 
